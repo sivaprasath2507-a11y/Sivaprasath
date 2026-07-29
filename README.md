@@ -134,28 +134,37 @@ Modern React Portfolio with animations.
 
 ---
 
+---
+
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=sivaprasath2507-a11y&theme=dark&hide_border=true&background=161616&stroke=FF6600&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=FFFFFF&sideNums=FFFFFF&dates=B8B8B8"/>
 
-</p>
+</div>
 
 ---
 
 # 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprasath2507-a11y&bg_color=161616&color=FFFFFF&line=FF6600&point=FF6600&area=true&area_color=FF6600&hide_border=true&radius=16"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sivaprasath2507-a11y&theme=algolia&no-frame=true&no-bg=true&margin-w=18&margin-h=18&column=4"/>
+
+</div>
 
 ---
-
 # ⚙️ Tools I Use
 
 <p>
