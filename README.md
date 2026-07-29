@@ -161,8 +161,8 @@ Modern React Portfolio with animations.
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=sivaprasath2507-a11y&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
-alt="GitHub Trophies"/>
+src="[https://github-profile-trophy.vercel.app/?username=sivaprasath2507-a11y&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+alt="GitHub Trophies](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5UJykxxF7NBPUwcOTHcIyQVki3TFpiOZgYshKZ_Uhg&s=10)"/>
 
 </div>
 
